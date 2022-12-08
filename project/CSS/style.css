@@ -1,0 +1,67 @@
+/* CSS Document */
+th{
+	background:#000033;
+	color:#ffff99;
+	font-family:Verdana, Arial, Helvatica, Sans-serif;
+	font-size:13px;
+}
+
+td{
+	color:#000000;
+	font-family:Tahoma;
+	font-size:15px;
+}
+
+.textmenu{
+	font-family:Calibri;
+	font-size:13pt;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	color:#cccccc;
+	background-color:#226f76;
+}
+
+.textmenuitm{
+	font-family:Calibri;
+	font-size:12pt;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:#333333;
+	background-color:#FFFFFF;
+}
+
+.textmenuar{
+	font-family:Verdana;
+	font-size:13pt;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	color:#226f76;
+	background-color:#cccccc;
+}
+
+a{
+	font-family:Calibri;
+	font-size:13pt;
+	color:#000033;
+	text-decoration:none;
+}
+
+a:hover{
+	font-family:Verdana;
+	font-size:10pt;
+	]color:#663300;
+	text-decoration:none;
+}
+
+a:visited{
+	font-family:Calibri;
+	font-size:13pt;
+	font-style:normal;
+	font-weight:normal;
+	color:#000033;
+	background-color:#cccccc;
+}
+
